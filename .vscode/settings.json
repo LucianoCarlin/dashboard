@@ -1,0 +1,11 @@
+{
+    "WillLuke.nextjs.addTypesOnSave": true,
+    "WillLuke.nextjs.hasPrompted": true,
+    "cSpell.words": [
+        "chakra",
+        "Chakra"
+    ],
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Visual Studio Light"
+}
