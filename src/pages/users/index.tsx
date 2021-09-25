@@ -18,10 +18,10 @@ import { RiAddLine, RiPencilLine } from "react-icons/ri";
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
 
-export default function UserList(props) {
+export default function UserList() {
   return(
     <Box>
-      <Header />
+      <Header />e
 
       <Flex w="100%" my="6" maxW={1480} mx="auto" px="6">
         <Sidebar />
