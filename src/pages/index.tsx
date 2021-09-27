@@ -4,9 +4,9 @@ import {
   Button, 
   Stack,
  } from '@chakra-ui/react'
-import { Input } from '../components/Input'
+import { Input } from '../components/Form/Input'
 
-const SingIn: NextPage = () => {
+const SingIn: NextPage = (props) => {
   return (
     <Flex
       w="100vw"
